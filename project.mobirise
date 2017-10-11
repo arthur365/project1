@@ -65,7 +65,7 @@
               "color": "#5b686b"
             },
             "H2": {
-              "color": "#cebfaf"
+              "color": "#da26f0"
             }
           },
           "_name": "content5",
@@ -753,12 +753,12 @@
                 "customStyle1": "display-2",
                 "customStyle2": "display-5",
                 "customStyle3": "display-7",
-                "title": "Arthur's I.T Small Business Website's<br>",
+                "title": "Shape your future web project with sharp design and refine coded functions",
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more and Arthur will show you how cost apply.\n<br>\n<br><a href=\"http://www.capricorncars.co.uk/Pages/default.aspx\">Glyn business</a>&nbsp;//IT is the name of the game and i have moved on in my I.T skills as you no and can see.\n<br>what i have in mined is a hole new outlook towards your business website a better look better every think if i can get it right on my part in which i can do\" but its that word you don't like cost apply come's into it.\n<br>out dated web platform are not good Glyn we need to move on Bud if you want to look good out their in the business world make a move Glyn you be glad you did. \n<br>TRUST<br><br>",
                 "buttons": " <a data-app-btn=\"true\" class=\"btn  display-7 btn-primary\" href=\"https://form.jotformeu.com/72831802993362\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CONTACT ARTHUR HERE</a>",
-                "overlayOpacity": "0.5"
+                "overlayOpacity": "0.7"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1623x1080.jpg",
